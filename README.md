@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piyush076
-- 👀 I’m interested in App devlopment
-- 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on app building
+- 👀 I’m interested in Software and full stack development
+- 🌱 I’m a Computer science gradaute
+- 💞️ I’m looking for roles
 - 📫 How to reach me mail at piyushkumarsingh896@gmail.com
 
 <!---
