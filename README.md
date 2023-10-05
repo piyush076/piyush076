@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me mail at piyushkumarsingh896@gmail.com
 
-🚀 Languages and Tools:
-bash bootstrap cplusplus css3 heroku html5 express javascript linux mongodb mysql
+<!--🚀 Languages and Tools:
+bash bootstrap cplusplus css3 heroku html5 express javascript linux mongodb mysql--!>
 
 
 
