@@ -14,7 +14,7 @@ bash bootstrap cplusplus css3 heroku html5 express javascript linux mongodb mysq
   
 <!-- <img href="https://www.linkedin.com/in/anushka-singh-1606/" src="https://img.shields.io/badge/Anushka Singh-30302f?style=flat&logo=linkedin"/> -->
   
-[![linkedin badge](https://img.shields.io/badge/Anushka_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyush-kumar-singh896/)
+[![linkedin badge](https://img.shields.io/badge/Piyush_076-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyush-kumar-singh896/)
 <!--[![twitter badge](https://img.shields.io/badge/@Chauhan_Nush-30302f?style=flat&logo=twitter)](https://twitter.com/Chauhan_Nush)-->
 
 
